@@ -61,3 +61,6 @@ Mục tiêu là xác minh rằng khi người dùng nhập đúng tên đăng nh
 ### Tài liệu tham khảo:
 https://chatgpt.com/share/67865516-cf94-8008-bd4d-42190aa6b5dc
 
+### ChatGPT chấm điểm:
+https://chatgpt.com/share/67865828-b86c-8002-a1df-1f06d13e888c
+
